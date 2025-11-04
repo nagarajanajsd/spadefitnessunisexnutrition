@@ -47,6 +47,10 @@ html {
     font-size: 1.8rem;
     font-weight: bold;
 }
+.imglogo{
+    vertical-align: middle;
+}
+
 @media only screen and (max-width: 767px) 
 {
 .logo {
