@@ -45,6 +45,7 @@ html {
 .logo {
     color: var(--primary-color);
     font-size: 1.8rem;
+    font-size: 0.5vw;
     font-weight: bold;
 }
 /* Styles for screens with a maximum width of 767px (e.g., mobile devices) */
