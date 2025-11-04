@@ -45,15 +45,16 @@ html {
 .logo {
     color: var(--primary-color);
     font-size: 1.8rem;
-    font-size: 0.5vw;
+    font-size: 3.3vw;
     font-weight: bold;
 }
-/* Styles for screens with a maximum width of 767px (e.g., mobile devices) */
+/* Styles for screens with a maximum width of 767px (e.g., mobile devices)
 @media only screen and (max-width: 767px) {
   .logo {
-    font-size: 1rem; /* Adjust this value as needed for mobile */
+    font-size: 1rem; 
   }
 }
+*/
 
 .nav-menu {
     display: flex;
